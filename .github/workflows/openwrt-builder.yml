@@ -20,7 +20,6 @@ jobs:
     - name: SSH connection to Actions
       uses: P3TERX/debugger-action@master
 
-name: OpenWrt Builder
 
 on:
   repository_dispatch:
